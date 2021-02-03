@@ -43,8 +43,8 @@
 
 <h2>Estatísticas Github:</h2>
 <div>
-<img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-andrian&hide=html&layout=compact&theme=radical" />
-<img width="495px" src="https://github-readme-stats.vercel.app/api?username=gabriel-andrian&theme=radical&show_icons=true"/>
+<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-andrian&hide=html&layout=compact&theme=radical" />
+<img width="500px" src="https://github-readme-stats.vercel.app/api?username=gabriel-andrian&theme=radical&show_icons=true"/>
 </div>
 </div>
 <br><br><br>
