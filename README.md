@@ -61,7 +61,7 @@
 </a>
 
 <a href="https://gitlab.com/gabriel_andrian"> 
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/gabriel_andrian"> 
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/gabriel_andrian/"> 
 </a>
 </div>
 
