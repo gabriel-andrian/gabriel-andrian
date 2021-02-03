@@ -1,53 +1,23 @@
-<style>
-    .container {display:flex;
-                flex-direction: row;
-    }
-
-    .container p{
-      min-height: 50vh;
-    }
-    .container img{
-      max-height: 50vh;
-      min-height: 50vh;
-      min-width: 50vh;
-      max-width: 50vh;
-    }
-
-    h2 {
-      padding-top: 20px
-    }
-
-    .sociais {
-      padding-top: 30px;
-    }
-
-    .data {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: space-around;
-    }
-
-    .data img{
-      padding: 15px
-    }
-</style>
 <h1>Sobre mim</h1>
-<div class="container">
+<div>
 <div>
 <p> 
   Formado em Engenharia de Controle e Automação pela Unicesumar, sempre tive como hobby a área de tecnologia, em 2020 decidi encarar um novo desafio e transformar meu hobby na minha profissão. 
   Sou uma pessoa organizada, pontual, dedicada e empenhada naquilo que decido fazer, com um certo nível autodidata e de resiliência, aprendo com meus erros, conseguindo assim aplicar soluções para projetos futuros.
 </p>
 </div>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador">
+
 </div>
 <div>
+<br><br><br>
+
 <h1>Stacks</h1>
+<div align="center">
 <h2>Sistema Operacional:</h2>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
 
 <h2>Front-end:</h2>
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
@@ -72,13 +42,15 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 
 <h2>Estatísticas Github:</h2>
-<div class="data">
+<div>
 <img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-andrian&hide=html&layout=compact&theme=radical" />
 <img width="495px" src="https://github-readme-stats.vercel.app/api?username=gabriel-andrian&theme=radical&show_icons=true"/>
 </div>
+</div>
+<br><br><br>
 
 </div>
-<h1 class="sociais">Onde me encontrar</h1>
+<h1>Onde me encontrar</h1>
 <div align="center">
 <a href="https://www.linkedin.com/in/gabriel-andrian/"> 
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-andrian/"> 
@@ -92,3 +64,4 @@
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/gabriel_andrian"> 
 </a>
 </div>
+
