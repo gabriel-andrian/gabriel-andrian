@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/-GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/gabriel_andrian"> 
 </a>
 
-<a href="https://gitlab.com/gabriel_andrian"> 
+<a href="https://www.instagram.com/gabriel_andrian/"> 
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/gabriel_andrian/"> 
 </a>
 </div>
