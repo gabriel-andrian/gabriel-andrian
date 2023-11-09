@@ -2,8 +2,9 @@
 <div>
 <div>
 <p> 
-  Formado em Engenharia de Controle e Automação pela Unicesumar, sempre tive como hobby a área de tecnologia, em 2020 decidi encarar um novo desafio e transformar meu hobby na minha profissão. 
-  Sou uma pessoa organizada, pontual, dedicada e empenhada naquilo que decido fazer, com um certo nível autodidata e de resiliência, aprendo com meus erros, conseguindo assim aplicar soluções para projetos futuros.
+  Sou graduado em engenharia de controle e automação e atuo como desenvolvedor backend há mais de 3 anos, com Python, incluindo o framework Django, como minha principal linguagem de programação.
+  Minha carreira profissional tem foco no desenvolvimento backend, com ênfase em automação de processos e práticas DevOps. Além disso, possuo conhecimento em Javascript e Node.Js. 
+  Tenho experiência em sistemas integrados, otimização de processos e desenvolvimento de soluções customizadas. Destaco ainda minhas habilidades de comunicação com clientes, liderança e mentoria.
 </p>
 </div>
 
@@ -29,17 +30,10 @@
 
 <h2>Back-end:</h2>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask">
-
-<h2>Estou Estudando:</h2>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="amazon-aws">
-
-<h2>Quero Estudar:</h2>
-<img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="angularJs">
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-native">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask">
 
 <h2>Estatísticas Github:</h2>
 <div>
